@@ -1,0 +1,30 @@
+body{
+	background-color: darkblue;
+}
+
+
+h1{
+	color: white;
+	background-color: black;
+}
+
+h6{
+	color: white;
+	background-color: black;
+}
+
+table{
+	display: flex;
+}
+
+.container{
+	display: flex;
+}
+
+.column1{
+	background-color: royalblue;
+}
+
+.column2{
+	background-color: royalblue;
+}
